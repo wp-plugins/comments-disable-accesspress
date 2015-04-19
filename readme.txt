@@ -11,7 +11,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
  Disable comments on site globally. Comments can be disabled according to post type.
 
 == Description ==
-<strong>Comments Disable - AccessPress </strong> is a plugin to disable comments globally.This plugin allows administrators to globally disable comments on any post type (posts, pages, attachments, etc.) so that these settings need not to be configured for individual posts. It also removes all comment-related fields from edit and quick-edit screens.In simple words, just with one click you can disable the comments in whole site without having any burden to disable the comments on each posts individually.
+<strong>Comments Disable - AccessPress </strong> is a plugin to disable comments globally.This plugin allows administrators to globally disable comments on any post type (posts, pages, attachments, etc.) so that these settings need not to be configured for individual posts. 
+
+It also removes all comment-related fields from edit and quick-edit screens.In simple words, just with one click you can disable the comments in whole site without having any burden to disable the comments on each posts individually.
+
 = Some Useful Links =
 * <strong>Support Email</strong>: support@accesspressthemes.com
 * <strong>Support Forum Link</strong>: http://accesspressthemes.com/support/
@@ -21,7 +24,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 For a easy installation guide checkout the Installation tab above.
 
-For complete information and documentation regarding plugin, please visit below links.
+For complete information and documentation regarding plugin, please visit [here](https://accesspressthemes.com/wordpress-plugins/comments-disable-accesspress/).
+
 
 == Installation ==
 1. Unzip comments-disable-accesspress.zip
