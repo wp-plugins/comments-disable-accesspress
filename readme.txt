@@ -3,18 +3,15 @@ Contributors: Access Keys
 Tags: comments, comments off, comments disable, disable comments, comment, comment off, comment disable, disable comment, disable page comment, page comment disable, page comments disable, disable page comments
 Donate link: http://accesspressthemes.com/donation/
 Requires at least: 3.8
-Tested up to: 4.1
-Stable tag: 1.0.0
+Tested up to: 4.2
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
- Disable comments on site globally. Comments can be disabled according to post type.
+ Disable comments on site globally with just one click. Comments can be disabled according to post type.
 
 == Description ==
-<strong>Comments Disable - AccessPress </strong> is a plugin to disable comments globally.This plugin allows administrators to globally disable comments on any post type (posts, pages, attachments, etc.) so that these settings need not to be configured for individual posts. 
-
-It also removes all comment-related fields from edit and quick-edit screens.In simple words, just with one click you can disable the comments in whole site without having any burden to disable the comments on each posts individually.
-
+<strong>Comments Disable - AccessPress </strong> is a plugin to disable comments globally.This plugin allows administrators to globally disable comments on any post type (posts, pages, attachments, etc.) so that these settings need not to be configured for individual posts. It also removes all comment-related fields from edit and quick-edit screens.In simple words, just with one click you can disable the comments in whole site without having any burden to disable the comments on each posts individually.
 = Some Useful Links =
 * <strong>Support Email</strong>: support@accesspressthemes.com
 * <strong>Support Forum Link</strong>: http://accesspressthemes.com/support/
@@ -24,8 +21,7 @@ It also removes all comment-related fields from edit and quick-edit screens.In s
 
 For a easy installation guide checkout the Installation tab above.
 
-For complete information and documentation regarding plugin, please visit [here](https://accesspressthemes.com/wordpress-plugins/comments-disable-accesspress/).
-
+For complete information and documentation regarding plugin, please visit below links.
 
 == Installation ==
 1. Unzip comments-disable-accesspress.zip
@@ -48,8 +44,12 @@ In that case, your theme might have included some strong comment overriding code
 
 
 == Changelog ==
+= 1.0.1 = 
+* Include plugin translation files for easy translation
+
 = 1.0.0 =
 * Plugin submitted to http://wordpress.org for review and approval.
+* Plugin approved in http://wordpress.org and committed to repository
 
 == Upgrade Notice ==
 There is an update available for the Comments Disable - AccessPress Plugin. Please update to recieve new updates and bug fixes.

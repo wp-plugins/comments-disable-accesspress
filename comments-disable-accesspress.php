@@ -5,7 +5,7 @@ if (!defined('ABSPATH'))
  * Plugin Name: Comments Disable - AccessPress
  * Plugin URI: http://accesspressthemes.com/plugins
  * Description: A plugin to disable plugin globally with various configurable options
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: AccessPress Themes
  * Author URI: http://accesspressthemes.com
  * Text Domain: ap-comments-disable
@@ -16,7 +16,7 @@ if (!defined('ABSPATH'))
  * Some Necessary Constants
  * */
 if (!defined('CDAP_VERSION')) {
-    define('CDAP_VERSION', '1.0.0'); // plugin version information
+    define('CDAP_VERSION', '1.0.1'); // plugin version information
 }
 
 if (!defined('CDAP_TD')) {
