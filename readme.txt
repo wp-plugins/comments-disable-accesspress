@@ -21,8 +21,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 For a easy installation guide checkout the Installation tab above.
 
-For complete information and documentation regarding plugin, please visit below links.
-
 == Installation ==
 1. Unzip comments-disable-accesspress.zip
 2. Upload all the files to the /wp-content/plugins/comments-disable-accesspress
